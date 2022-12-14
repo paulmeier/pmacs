@@ -1,0 +1,8 @@
+#+title: Readme
+
+* Tangle command line
+#+begin_src bash
+
+emacs --batch --eval "(require 'org')" --eval '(org-babel-tangle-file "init.org")'
+
+#+end_src

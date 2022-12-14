@@ -1,5 +1,5 @@
 #+TITLE: Emacs
-#+PROPERTY: header-args:emacs-lisp :tangle .config/pmacs/init.el
+#+PROPERTY: header-args:emacs-lisp :tangle init.el
 
 An emacs WIP to replace my doom setup one day. (mostly stolen from system crafters)
 

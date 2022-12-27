@@ -29,7 +29,7 @@ Set a custom font
 
 + Darwin
   - Get the "Fira Mono" fonts on Darwin:
-#+begin_quote
+#+begin_quote bash
       brew install svn
       brew tap homebrew/cask-fonts
 

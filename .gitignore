@@ -12,3 +12,9 @@
 
 # Packages
 elpa/
+
+# Network data
+network-security.data
+
+# Magit
+transient/
